@@ -1,6 +1,6 @@
 {
   "name": "hexcore-better-sqlite3",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "HexCore N-API wrapper for SQLite (better-sqlite3 fork)",
   "main": "./index.js",
   "module": "./index.mjs",
